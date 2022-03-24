@@ -1,7 +1,9 @@
 ### :computer: Tópicos Avançados em Redes (CC4090) :computer:
+
 ---------------------------------------------------------------------------------------
-## MIP
-Implementação de uma rede com suporte MIP. Estudo das diferenças entre MIPv6 e MIPv4.
+
+#### MIP
+> Implementação de uma rede com suporte MIP. Estudo das diferenças entre MIPv6 e MIPv4.
 
 ---------------------------------------------------------------------------------------
 
