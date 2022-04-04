@@ -1,0 +1,8 @@
+Descrição da tecnologia (3 páginas, texto original dos elementos do grupo)
+
+Objetivos do projeto
+
+Identificação de ferramentas/componentes a usar (software e, se aplicável, hardware)
+    Deve incluir uma demonstração de viabilidade (por exemplo, uma experiência preliminar muito simples, mas suficiente para mostrar que o software permite fazer a demonstração pretendida)
+
+Planeamento do resto do trabalho
